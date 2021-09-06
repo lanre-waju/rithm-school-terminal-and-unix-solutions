@@ -1,1 +1,0 @@
-# rithm-school-terminal-and-unix-solutions
